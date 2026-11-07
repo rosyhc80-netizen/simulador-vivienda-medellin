@@ -148,3 +148,10 @@ with tab3:
         "Pago Total Mes": "${:,.0f}",
         "Saldo Final": "${:,.0f}"
     }))
+
+
+
+        
+
+
+  
